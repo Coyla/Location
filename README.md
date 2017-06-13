@@ -2,7 +2,7 @@
 ## Classe Voiture 
 ### propriétés : 
 string idVoiture  
-string immatriculation  
+string immatricule
 int nbPlace  
 decimal prix  
 TypeVoiture typeVoiture  
